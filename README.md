@@ -1,7 +1,7 @@
 # Down
 
 
--1-
+"-1-
 ------------------------------------------------
 class Tariff:
     def __init__(self, name, base_price, duration_weeks):
@@ -168,4 +168,4 @@ total = marketplace.get_total_commission(prices)
 print("комиссия 8% = 4800")
 print("комиссия 200 (фикс)")
 print("комиссия 7% = 84")
-print(f"ИТОГО: {total}")
+print(f"ИТОГО: {total}")"
